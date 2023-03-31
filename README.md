@@ -10,6 +10,8 @@ alt="" title="Image Source: https://www.travelpayouts.com/blog/a-b-and-split-tes
 <sup><i>(Image Source: https://www.travelpayouts.com/blog/a-b-and-split-tests/)</i></sup>
 </p>
 
+Please view the Jupyter Notebook file with NBViewer for the best experience: https://nbviewer.org/github/namhaivu173/AB_Testing_Practice/blob/main/Web_AB_test.ipynb
+
 ## I. Data set:
 
 - Downloaded from Kaggle: https://www.kaggle.com/datasets/zhangluyuan/ab-testing
@@ -22,6 +24,5 @@ alt="" title="Image Source: https://www.travelpayouts.com/blog/a-b-and-split-tes
 
 ## III. Files shared:
 
-- .ipynb: Python script containing the code for the AB testing process
-- .html: the printed output of the .ipynb script
+- .ipynb: Python script containing codes for the AB testing process
 - .csv: the data set used
