@@ -10,7 +10,7 @@ alt="" title="Image Source: https://www.travelpayouts.com/blog/a-b-and-split-tes
 <sup><i>(Image Source: https://www.travelpayouts.com/blog/a-b-and-split-tests/)</i></sup>
 </p>
 
-Please view the Jupyter Notebook file with NBViewer for the best experience: [https://nbviewer.org/github/namhaivu173/AB_Testing_Practice/blob/main/Web_AB_test.ipynb](https://github.com/namhaivu173/AB_Testing_Practice/blob/38ed97f5960b2e7fce3f7b3ac320a0c84a702a2f/Web_AB_test.ipynb)
+Please view the Jupyter Notebook file with NBViewer for the best experience: [https://nbviewer.org/github/namhaivu173/AB_Testing_Practice/blob/main/Web_AB_test.ipynb](https://nbviewer.org/github/namhaivu173/AB_Testing_Practice/blob/38ed97f5960b2e7fce3f7b3ac320a0c84a702a2f/Web_AB_test.ipynb)
 
 ## I. Data set:
 
