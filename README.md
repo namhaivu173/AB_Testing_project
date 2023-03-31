@@ -1,10 +1,10 @@
 <h1 align="center">
-AB Testing Practice
+AB Testing Project
 </h1>
 
 <p align="center">
 <img src="https://www.travelpayouts.com/blog/wp-content/uploads/2018/11/ab-testing.jpg" 
-alt="" title="Image Source: https://www.travelpayouts.com/blog/a-b-and-split-tests/" width="50%" height="80%">
+alt="" title="Image Source: https://www.travelpayouts.com/blog/a-b-and-split-tests/" width="55%" height="80%">
 </p>
 <p align="center">
 <sup><i>(Image Source: https://www.travelpayouts.com/blog/a-b-and-split-tests/)</i></sup>
